@@ -1,6 +1,6 @@
 { "name": "Seniwenboyo",
 "short_name": "seniwen",
-"start_url": "https://seniwenboyo.blogspot.com",
+"start_url": "https://seniwenboyo.github.io/manifest.json",
 "display": "standalone",
 "background_color": "#ffffff",
 "theme_color": "#A9A9A9"
